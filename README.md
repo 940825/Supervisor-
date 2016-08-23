@@ -1,1 +1,1 @@
-## supervisor介绍看笨仓库wiki
+## supervisor介绍及使用方法看本仓库wiki
